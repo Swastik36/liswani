@@ -41,12 +41,17 @@ scripts/            data + artwork fetch and build scripts
 
 ## Deployment
 
-Live at **https://liswani.vercel.app** (Vercel static project `liswani`).
+Live at **https://liswani.vercel.app** (Vercel project `liswani` connected to GitHub repository [`Swastik36/liswani`](https://github.com/Swastik36/liswani)).
 
 To publish an update:
 
 1. Run `node scripts/build-data.mjs`.
-2. Run `npx vercel deploy --prod`.
+2. Commit and push to `main` (Vercel auto-deploys):
+   ```sh
+   git commit -am "Update list"
+   git push origin main
+   ```
+   Or deploy directly via CLI: `npx vercel deploy --prod`.
 
 `.vercelignore` keeps local build inputs, scripts, and environment files out of
 the upload. `data.js` is regenerated locally and deployed as a static file.
