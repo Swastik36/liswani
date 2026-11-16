@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b0c10">
+  <meta name="description" content="Swastik's anime watch list — 1,852 episodes, 12 films, ~769 hours, sorted by tier.">
+  <link rel="canonical" href="https://liswani.vercel.app/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Swastik's Anime List">
+  <meta property="og:title" content="Swastik's Anime List">
+  <meta property="og:description" content="Swastik's anime watch list — 1,852 episodes, 12 films, ~769 hours, sorted by tier.">
+  <meta property="og:url" content="https://liswani.vercel.app/">
+  <meta property="og:image" content="https://liswani.vercel.app/assets/img/og-cover.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Swastik's Anime List">
+  <meta name="twitter:description" content="Swastik's anime watch list — 1,852 episodes, 12 films, ~769 hours, sorted by tier.">
+  <meta name="twitter:image" content="https://liswani.vercel.app/assets/img/og-cover.png">
+  <title>Swastik's Anime List</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to the list</a>
+
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <div class="hero-top">
+        <p class="eyebrow"><span class="eyebrow-dot"></span> Personal watch log</p>
+        <p class="hero-file">~/Documents/list.md · <span id="hero-date">Nov 2026</span></p>
+      </div>
+
+      <div class="hero-copy">
+        <h1>Swastik's<br><em>Anime</em> List</h1>
+        <p class="hero-lede" id="profile"></p>
+      </div>
+
+      <div class="hero-stats" id="hero-stats" aria-label="Watch totals"></div>
+      <p class="time-note" id="time-note"></p>
+    </div>
+  </header>
+
+  <nav class="nav" aria-label="List sections">
+    <div class="wrap nav-inner" id="nav"></div>
+  </nav>
+
+  <main id="main" class="wrap">
+    <div id="sections"></div>
+
+    <section class="info-section" id="totals" aria-labelledby="totals-title">
+      <header class="section-head">
+        <div class="section-kicker">The receipts</div>
+        <div class="section-heading">
+          <h2 id="totals-title">Totals</h2>
+          <p>Everything counted once — films and extras included.</p>
+        </div>
+      </header>
+      <div class="stat-grid" id="total-stats"></div>
+      <div class="bars-panel">
+        <div class="bars-head">
+          <h3>Hours by shelf</h3>
+          <span id="bars-total">~769 hours total</span>
+        </div>
+        <div class="bars" id="bars"></div>
+      </div>
+      <details class="method">
+        <summary>Recount &amp; method notes</summary>
+        <ul id="total-notes"></ul>
+      </details>
+    </section>
+
+    <section class="info-section" id="taste" aria-labelledby="taste-title">
+      <header class="section-head">
+        <div class="section-kicker">The pattern</div>
+        <div class="section-heading">
+          <h2 id="taste-title">Taste Notes</h2>
+          <p>Observed tendencies, not rules — override anytime.</p>
+        </div>
+      </header>
+      <div class="taste-grid">
+        <div class="taste-card taste-yes">
+          <h3>Yes</h3>
+          <ul id="taste-yes"></ul>
+        </div>
+        <div class="taste-card taste-no">
+          <h3>No</h3>
+          <ul id="taste-no"></ul>
+        </div>
+      </div>
+      <p class="taste-note" id="taste-note"></p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <p>Built from <span>~/Documents/list.md</span>. Posters and key art cached locally.</p>
+      <p>Click any poster for notes, synopsis, and more pictures.</p>
+    </div>
+  </footer>
+
+  <div class="modal" id="modal" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title" tabindex="-1">
+      <button class="modal-close" type="button" data-close aria-label="Close details">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+
+      <div class="modal-hero" id="modal-hero">
+        <img id="modal-banner" alt="">
+        <div class="modal-hero-empty" id="modal-hero-empty" aria-hidden="true"></div>
+        <div class="modal-hero-fade"></div>
+      </div>
+
+      <div class="modal-content">
+        <div class="modal-intro">
+          <div class="modal-poster" id="modal-poster"></div>
+          <div class="modal-heading">
+            <p class="modal-eyebrow" id="modal-section"></p>
+            <h2 id="modal-title"></h2>
+            <p class="modal-alt" id="modal-alt"></p>
+            <div class="chips" id="modal-chips"></div>
+          </div>
+        </div>
+
+        <div class="modal-note" id="modal-note">
+          <span class="note-label">Your note</span>
+          <p id="modal-note-text"></p>
+        </div>
+
+        <div class="modal-about">
+          <h3>About</h3>
+          <p id="modal-synopsis"></p>
+        </div>
+
+        <div class="modal-gallery" id="modal-gallery">
+          <h3>More pictures</h3>
+          <div class="gallery-grid" id="gallery-grid"></div>
+        </div>
+
+        <div class="modal-foot" id="modal-foot"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

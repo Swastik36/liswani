@@ -1,0 +1,1676 @@
+{
+  "meta": {
+    "title": "Anime List",
+    "owner": "Swastik",
+    "date": "Nov 2026",
+    "profile": "1,852 episodes · 12 films · ~769 hours total across 12 list sections, sorted from current watching to dropped & live-action.",
+    "timeNote": "~24 min per episode unless noted. Movies use real runtime."
+  },
+  "sections": [
+    {
+      "id": "currently-watching",
+      "title": "Currently Watching",
+      "subtitle": "in progress, on hold, or caught up",
+      "tag": "16 entries",
+      "accent": "#e7b267",
+      "items": [
+        {
+          "id": "cw-code-geass",
+          "media": "code-geass",
+          "title": "Code Geass",
+          "alt": "Code Geass: Lelouch of the Rebellion",
+          "meta": "24 of 50 watched · ~9.6h",
+          "note": "R1 episodes 1–24 watched. R1 ep 25 next, then R2.",
+          "progress": [
+            24,
+            50
+          ]
+        },
+        {
+          "id": "cw-blue-box",
+          "media": "blue-box",
+          "title": "Blue Box",
+          "alt": "Ao no Hako",
+          "badge": "10",
+          "meta": "S2 · 3 of 12 · S1 10/10",
+          "note": "S1: 25 eps (~10h, 10/10). S2: 3 of 12 watched, ep 4 skipped — undecided on continuing. Airs Sundays 16:30 JST.",
+          "progress": [
+            3,
+            12
+          ]
+        },
+        {
+          "id": "cw-ribarai",
+          "media": "ribarai",
+          "title": "貸した魔力は【リボ払い】で強制徴収",
+          "shortTitle": "Kashita Maryoku wa [Revo Barai]",
+          "alt": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu · Magic Repo Man",
+          "badge": "9.5",
+          "meta": "6 of 12 · caught up",
+          "note": "Caught up at ep 6. 9.5 — loving it.",
+          "progress": [
+            6,
+            12
+          ]
+        },
+        {
+          "id": "cw-firefly",
+          "media": "firefly-wedding",
+          "title": "Firefly Wedding",
+          "alt": "Hotaru no Yomeiri",
+          "meta": "5 of 12 · caught up",
+          "note": "Fridays. Caught up at ep 5, ~2h watched.",
+          "progress": [
+            5,
+            12
+          ]
+        },
+        {
+          "id": "cw-laidoff",
+          "media": "laidoff-mage",
+          "title": "The Laid-Off Cheat-Granting Mage",
+          "alt": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life (Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru)",
+          "badge": "9.5",
+          "meta": "6 of 12 · caught up",
+          "note": "Fall 2026, P.A.WORKS, Tuesdays. Caught up at ep 6 (Nov 10). 9.5 — ~2.4h.",
+          "progress": [
+            6,
+            12
+          ]
+        },
+        {
+          "id": "cw-tomozaki",
+          "media": "tomozaki",
+          "title": "Bottom-Tier Character Tomozaki",
+          "alt": "Jaku-chara Tomozaki-kun",
+          "meta": "8 of 25 watched",
+          "note": "S1 has 12 eps, then S2 13 eps. 8 watched, ~3.2h so far, ~17 eps left (~6.8h).",
+          "progress": [
+            8,
+            25
+          ]
+        },
+        {
+          "id": "cw-rezero",
+          "media": "rezero",
+          "title": "Re:Zero",
+          "alt": "Re:Zero − Starting Life in Another World",
+          "meta": "S1 · ep 11 · on hold",
+          "note": "Stopped at S1 ep 11 (11 eps, ~4.4h). Resuming from ep 12 → S1 ends at ep 25, then S2.",
+          "progress": [
+            11,
+            25
+          ]
+        },
+        {
+          "id": "cw-steins",
+          "media": "steins-gate",
+          "title": "Steins;Gate",
+          "meta": "ep 5 · on hold",
+          "note": "On hold at ep 5 (2h).",
+          "progress": [
+            5,
+            24
+          ]
+        },
+        {
+          "id": "cw-tbate",
+          "media": "tbate",
+          "title": "The Beginning After the End",
+          "alt": "TBATE",
+          "badge": "9.5",
+          "meta": "17 of 24 · ~6.8h · caught up",
+          "note": "S1 12 done + S2 ep 5 — all 17 aired so far. 9.5 — reincarnated-king isekai + progression, squarely your lane. Still airing.",
+          "progress": [
+            17,
+            24
+          ]
+        },
+        {
+          "id": "cw-rascal",
+          "media": "rascal",
+          "title": "Rascal Does Not Dream",
+          "alt": "Bunny Girl Senpai",
+          "badge": "10",
+          "meta": "26 eps + 3 films · caught up",
+          "note": "S1 13 + Santa Claus 13 = 26 eps, plus 3 films (Dreaming Girl ~90 min, Sister Venturing Out ~75 min, Knapsack Kid ~75 min) = ~14.4h. Only the Dear Friend film is left."
+        },
+        {
+          "id": "cw-love-game",
+          "media": "love-game",
+          "title": "I Want to End This Love Game",
+          "alt": "Aishiteru Game wo Owarasetai",
+          "badge": "9.5",
+          "meta": "4 of 12 · ~1.6h",
+          "note": "Aishiteru Game wo Owarasetai. Childhood friends love game. Watched up to ep 4. 9.5.",
+          "progress": [
+            4,
+            12
+          ]
+        },
+        {
+          "id": "cw-akame",
+          "media": "akame-ga-kill",
+          "title": "Akame ga Kill!",
+          "badge": "3 EPS",
+          "meta": "3 of 24 · ~1.2h",
+          "note": "Currently watching, on 3rd episode.",
+          "progress": [
+            3,
+            24
+          ]
+        },
+        {
+          "id": "cw-kanojo-no-tomodachi",
+          "media": "kanojo-no-tomodachi",
+          "title": "My Girlfriend's Friend",
+          "alt": "Kanojo no Tomodachi",
+          "badge": "2 EPS",
+          "meta": "2 of 12 · ~0.8h",
+          "note": "Currently watching, on episode 2.",
+          "progress": [
+            2,
+            12
+          ]
+        },
+        {
+          "id": "cw-call-of-the-night",
+          "media": "call-of-the-night",
+          "title": "Call of the Night",
+          "alt": "Yofukashi no Uta",
+          "badge": "2 EPS",
+          "meta": "2 of 13 · ~0.8h",
+          "note": "Currently watching, on episode 2.",
+          "progress": [
+            2,
+            13
+          ]
+        },
+        {
+          "id": "cw-appraisal-s3",
+          "media": "appraisal-aristocrat-s3",
+          "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World S3",
+          "alt": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+          "badge": "7 OF 12",
+          "meta": "7 of 12 · airing · caught up",
+          "note": "Season 3. Airing Fall 2026, caught up.",
+          "progress": [
+            7,
+            12
+          ]
+        },
+        {
+          "id": "cw-mobseka-s2",
+          "media": "mobseka-s2",
+          "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs S2",
+          "alt": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
+          "badge": "9.5",
+          "meta": "S2 · 9 of 12 · ~3.6h",
+          "note": "Season 2: 9 of 12 watched. 9.5 — currently watching.",
+          "progress": [
+            9,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "queue",
+      "title": "Queue",
+      "subtitle": "what's next",
+      "tag": "8 entries",
+      "accent": "#7fa8d9",
+      "items": [
+        {
+          "id": "q-dear-friend",
+          "media": "rascal-dear-friend",
+          "title": "Rascal Does Not Dream of Dear Friend",
+          "alt": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+          "badge": "SOON",
+          "meta": "Final film · Oct 16, 2026",
+          "note": "Final film, JP release Oct 16 2026 — after Santa Claus."
+        },
+        {
+          "id": "q-mushoku-s3",
+          "media": "mushoku-s3",
+          "title": "Mushoku Tensei S3 Cour 2",
+          "alt": "Mushoku Tensei III",
+          "badge": "2027",
+          "meta": "2027 · date / episodes TBA",
+          "note": "Premiere 2027, date and episode count TBA. Announced Sep 27, 2026 after ep 14 closed cour 1; next arc is the Orsted fight. Not counted in totals yet."
+        },
+        {
+          "id": "q-anohana",
+          "media": "anohana",
+          "title": "Anohana",
+          "alt": "The Flower We Saw That Day (Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai)",
+          "badge": "TBR",
+          "meta": "11 eps · 2011 · complete",
+          "note": "A-1 Pictures. Childhood friend group reunites when the dead girl Menma appears to the shut-in MC; grief / tearjerker drama. Plus a 2013 recap movie (99 min)."
+        },
+        {
+          "id": "q-solo-s3",
+          "media": "solo-s3",
+          "title": "Solo Leveling S3",
+          "alt": "Ore dake Level Up na Ken Season 3",
+          "badge": "2027",
+          "meta": "2027–2028 · episodes TBA",
+          "note": "Confirmed Jun 2026; sequel to the 25-ep run already watched (9/10). Episode count TBA — not counted in totals yet."
+        },
+        {
+          "id": "q-oshi-final",
+          "media": "oshi-final",
+          "title": "Oshi no Ko Final Season",
+          "badge": "TBR",
+          "meta": "Announced · TBA",
+          "note": "Final season. Waiting."
+        },
+        {
+          "id": "q-condition-love",
+          "media": "condition-love",
+          "title": "A Condition Called Love",
+          "alt": "Hananoi-kun to Koi no Yamai",
+          "badge": "TBR",
+          "meta": "12 eps · complete",
+          "note": "Queued. 12 episodes, complete."
+        },
+        {
+          "id": "q-cuckoos-s2",
+          "media": "cuckoos-s2",
+          "title": "A Couple of Cuckoos Season 2",
+          "badge": "QUEUE",
+          "meta": "Season 2 · tracking",
+          "note": "A Couple of Cuckoos Season 2 tracking in queue."
+        },
+        {
+          "id": "q-100-girlfriends-s3",
+          "media": "100-girlfriends-s3",
+          "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+          "alt": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
+          "badge": "QUEUE",
+          "meta": "Season 3 · tracking",
+          "note": "Season 3 tracking in queue."
+        }
+      ]
+    },
+    {
+      "id": "peak",
+      "title": "Peak Tier",
+      "subtitle": "above the ranking · 10/10 · absolute cinema",
+      "tag": "6 entries",
+      "accent": "#e5c15a",
+      "feature": true,
+      "items": [
+        {
+          "id": "peak-bunny-girl",
+          "media": "rascal",
+          "title": "Bunny Girl Senpai S1",
+          "alt": "Rascal Does Not Dream of Bunny Girl Senpai",
+          "badge": "10",
+          "meta": "13 eps",
+          "note": "The original season."
+        },
+        {
+          "id": "peak-dreaming-girl",
+          "media": "rascal-dreaming-girl",
+          "title": "Rascal Does Not Dream of a Dreaming Girl",
+          "badge": "10",
+          "meta": "Film · 90 min",
+          "note": "Sequel to Bunny Girl Senpai."
+        },
+        {
+          "id": "peak-knapsack",
+          "media": "rascal-knapsack",
+          "title": "Rascal Does Not Dream of a Knapsack Kid",
+          "badge": "10",
+          "meta": "Film · ~75 min",
+          "note": "Closes the high-school era; the harder-hitting of the two 2023 films. Runtime counted once, in Currently Watching."
+        },
+        {
+          "id": "peak-santa",
+          "media": "rascal-santa",
+          "title": "Rascal Does Not Dream of Santa Claus",
+          "badge": "10",
+          "meta": "13 eps · ~5.2h",
+          "note": "College arc (Summer 2025, CloverWorks); finished Nov 2026. Mai, Nene / Touko Kirishima mystery — one of the best arcs."
+        },
+        {
+          "id": "peak-silent-voice",
+          "media": "silent-voice",
+          "title": "A Silent Voice",
+          "alt": "Koe no Katachi",
+          "badge": "10",
+          "meta": "Film · 130 min",
+          "note": "Emotional gut-punch drama."
+        },
+        {
+          "id": "peak-ngnl-zero",
+          "media": "ngnl-zero",
+          "title": "No Game No Life: Zero",
+          "badge": "10",
+          "meta": "Film · 106 min · ~1.7h",
+          "note": "Prequel film covering Riku, Schwi, and the Great War. 10/10."
+        }
+      ]
+    },
+    {
+      "id": "perfect-10",
+      "title": "Perfect 10",
+      "subtitle": "the flawless ones",
+      "tag": "21 entries",
+      "accent": "#ef9a78",
+      "items": [
+        {
+          "id": "p10-ngnl",
+          "media": "ngnl",
+          "title": "No Game No Life",
+          "badge": "10",
+          "meta": "12 eps · ~4.8h",
+          "note": "Loved; no S2."
+        },
+        {
+          "id": "p10-relife-s1",
+          "media": "relife",
+          "title": "ReLIFE",
+          "badge": "10",
+          "meta": "13 eps · ~5.2h",
+          "note": "TV series (13 eps). Peak, complete. This is the one that set the bar."
+        },
+        {
+          "id": "p10-relife-ova",
+          "media": "relife-ova",
+          "title": "ReLIFE: Kanketsu-hen",
+          "badge": "10",
+          "meta": "4 OVAs · ~1.6h",
+          "note": "4-part OVA finale; completes the Arata and Chizuru story. 10/10."
+        },
+        {
+          "id": "p10-summertime",
+          "media": "summertime",
+          "title": "Summertime Rendering",
+          "alt": "Summer Time Render",
+          "badge": "10",
+          "meta": "25 eps · ~10h",
+          "note": "Finished Oct 2026."
+        },
+        {
+          "id": "p10-second-prettiest",
+          "media": "second-prettiest",
+          "title": "I Made Friends with the Second Prettiest Girl in My Class",
+          "alt": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+          "badge": "10",
+          "meta": "12 eps · ~4.8h",
+          "note": "Complete.",
+          "description": "A warm, character-led romance about an unlikely friendship that turns into something more. 12 episodes, complete."
+        },
+        {
+          "id": "p10-gimai",
+          "media": "gimai",
+          "title": "Days with My Stepsister",
+          "alt": "Gimai Seikatsu",
+          "badge": "10",
+          "meta": "12 eps · ~4.8h",
+          "note": "S1 full; this is what got me into diary writing."
+        },
+        {
+          "id": "p10-blue-box",
+          "media": "blue-box",
+          "title": "Blue Box S1",
+          "alt": "Ao no Hako",
+          "badge": "10",
+          "meta": "25 eps · ~10h",
+          "note": "S1 done; S2 in progress (see Currently Watching). Runtime counted once, in Currently Watching."
+        },
+        {
+          "id": "p10-kaoru-hana",
+          "media": "kaoru-hana",
+          "title": "The Fragrant Flower Blooms with Dignity",
+          "alt": "Kaoru Hana wa Rin to Saku",
+          "badge": "10",
+          "meta": "13 eps · ~5.2h",
+          "note": "S1 complete (Jul–Sep 2025)."
+        },
+        {
+          "id": "p10-sister",
+          "media": "rascal-sister",
+          "title": "Rascal Does Not Dream of a Sister Venturing Out",
+          "badge": "10",
+          "meta": "Film · ~75 min · ~1.25h",
+          "note": "Kaede's film; warm and quiet, not Dreaming Girl-tier emotional but still a 10. Runtime counted once, in Currently Watching."
+        },
+        {
+          "id": "p10-parasyte",
+          "media": "parasyte",
+          "title": "Parasyte: The Maxim",
+          "alt": "Kiseijuu: Sei no Kakuritsu",
+          "badge": "10",
+          "meta": "24 eps · ~9.6h",
+          "note": "Body horror done right — MC hardens instead of breaking."
+        },
+        {
+          "id": "p10-edgerunners",
+          "media": "edgerunners",
+          "title": "Cyberpunk: Edgerunners",
+          "badge": "10",
+          "meta": "10 eps · ~4h",
+          "note": "2022, Trigger + CD Projekt Red, Netflix. Watched Nov 2026; ending landed hard. S2 (10 eps, out Oct 20 2026) dropped."
+        },
+        {
+          "id": "p10-quintuplets-s1",
+          "media": "quintuplets",
+          "title": "The Quintessential Quintuplets S1",
+          "badge": "10",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 1. Finished Nov 2026."
+        },
+        {
+          "id": "p10-quintuplets-s2",
+          "media": "quintuplets-s2",
+          "title": "The Quintessential Quintuplets S2",
+          "alt": "The Quintessential Quintuplets ∬",
+          "badge": "10",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 2. 7 Goodbyes through Sisters War arcs."
+        },
+        {
+          "id": "p10-mushoku-s1",
+          "media": "mushoku",
+          "title": "Mushoku Tensei: Jobless Reincarnation S1",
+          "badge": "10",
+          "meta": "23 eps · ~9.2h",
+          "note": "Season 1 (Cour 1 + 2). Peak isekai worldbuilding. 10/10."
+        },
+        {
+          "id": "p10-mushoku-s2",
+          "media": "mushoku-s2",
+          "title": "Mushoku Tensei: Jobless Reincarnation S2",
+          "badge": "10",
+          "meta": "24 eps · ~9.6h",
+          "note": "Season 2. University arc & Labyrinth arc. 10/10."
+        },
+        {
+          "id": "p10-sao-s1",
+          "media": "sao",
+          "title": "Sword Art Online S1",
+          "badge": "10",
+          "meta": "25 eps · ~10h",
+          "note": "Aincrad & Fairy Dance arcs. 10/10."
+        },
+        {
+          "id": "p10-higehiro",
+          "media": "higehiro",
+          "title": "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",
+          "alt": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+          "badge": "10",
+          "meta": "13 eps · ~5.2h",
+          "note": "Complete. 10/10."
+        },
+        {
+          "id": "p10-mushoku-s3-c1",
+          "media": "mushoku-s3",
+          "title": "Mushoku Tensei S3 Cour 1",
+          "alt": "Mushoku Tensei: Isekai Ittara Honki Dasu Season 3 Part 1",
+          "badge": "10",
+          "meta": "14 eps · ~5.6h",
+          "note": "14 episodes closed Cour 1 (Sep 2026); leads into the Orsted fight. 10/10."
+        },
+        {
+          "id": "p10-cuckoos",
+          "media": "cuckoos",
+          "title": "A Couple of Cuckoos",
+          "alt": "Kakkou no Iinazuke",
+          "badge": "10",
+          "meta": "24 eps · ~9.6h",
+          "note": "Complete 24-episode season. 10/10."
+        },
+        {
+          "id": "p10-seirei-s1",
+          "media": "seirei-gensouki",
+          "title": "Seirei Gensouki: Spirit Chronicles S1",
+          "alt": "Seirei Gensouki",
+          "badge": "10",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 1 (2021), complete. 10/10."
+        },
+        {
+          "id": "p10-seirei-s2",
+          "media": "seirei-gensouki-s2",
+          "title": "Seirei Gensouki: Spirit Chronicles S2",
+          "alt": "Seirei Gensouki 2",
+          "badge": "10",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 2 (2024), complete. 10/10."
+        }
+      ]
+    },
+    {
+      "id": "top-95",
+      "title": "Top Tier 9.5",
+      "subtitle": "the near-perfect shelf",
+      "tag": "47 entries",
+      "accent": "#b09bea",
+      "items": [
+        {
+          "id": "t95-cote-s1",
+          "media": "cote",
+          "title": "Classroom of the Elite S1",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 1 (2017)."
+        },
+        {
+          "id": "t95-cote-s2",
+          "media": "cote-s2",
+          "title": "Classroom of the Elite S2",
+          "badge": "9.5",
+          "meta": "13 eps · ~5.2h",
+          "note": "Season 2 (2022)."
+        },
+        {
+          "id": "t95-cote-s3",
+          "media": "cote-s3",
+          "title": "Classroom of the Elite S3",
+          "badge": "9.5",
+          "meta": "13 eps · ~5.2h",
+          "note": "Season 3 (2024)."
+        },
+        {
+          "id": "t95-cote-s4",
+          "media": "cote-s4",
+          "title": "Classroom of the Elite S4",
+          "badge": "9.5",
+          "meta": "16 eps · ~6.4h",
+          "note": "Season 4 / Second Year arc."
+        },
+        {
+          "id": "t95-erased",
+          "media": "erased",
+          "title": "Erased",
+          "alt": "Boku dake ga Inai Machi",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Could be 10; ending felt detached from eps 1–10."
+        },
+        {
+          "id": "t95-dandadan-s1",
+          "media": "dandadan",
+          "title": "Dandadan S1",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 1."
+        },
+        {
+          "id": "t95-dandadan-s2",
+          "media": "dandadan-s2",
+          "title": "Dandadan S2",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 2."
+        },
+        {
+          "id": "t95-suzume",
+          "media": "suzume",
+          "title": "Suzume",
+          "alt": "Suzume no Tojimari",
+          "badge": "9.5",
+          "meta": "Film · 122 min",
+          "note": "Shinkai. 9.5."
+        },
+        {
+          "id": "t95-your-lie",
+          "media": "your-lie",
+          "title": "Your Lie in April",
+          "alt": "Shigatsu wa Kimi no Uso",
+          "badge": "9.5",
+          "meta": "22 eps · ~8.8h",
+          "note": "Emotional gut-punch drama."
+        },
+        {
+          "id": "t95-slime-s1",
+          "media": "slime",
+          "title": "That Time I Got Reincarnated as a Slime S1",
+          "badge": "9.5",
+          "meta": "24 eps · ~9.6h",
+          "note": "Season 1."
+        },
+        {
+          "id": "t95-slime-s2",
+          "media": "slime-s2",
+          "title": "That Time I Got Reincarnated as a Slime S2",
+          "badge": "9.5",
+          "meta": "24 eps · ~9.6h",
+          "note": "Season 2 (Part 1 + 2)."
+        },
+        {
+          "id": "t95-slime-s3",
+          "media": "slime-s3",
+          "title": "That Time I Got Reincarnated as a Slime S3",
+          "badge": "9.5",
+          "meta": "24 eps · ~9.6h",
+          "note": "Season 3."
+        },
+        {
+          "id": "t95-slime-s4",
+          "media": "slime-s4",
+          "title": "That Time I Got Reincarnated as a Slime S4",
+          "badge": "9.5",
+          "meta": "24 eps · ~9.6h",
+          "note": "Season 4 (cour 1 + 2). Aired Apr–Sep 2026."
+        },
+        {
+          "id": "t95-spider",
+          "media": "spider",
+          "title": "So I'm a Spider, So What?",
+          "badge": "9.5",
+          "meta": "24 eps · ~9.6h",
+          "note": "Watched twice (~19.2h actual)."
+        },
+        {
+          "id": "t95-slf-s1",
+          "media": "slf",
+          "title": "Shangri-La Frontier S1",
+          "badge": "9.5",
+          "meta": "25 eps · ~10h",
+          "note": "Season 1."
+        },
+        {
+          "id": "t95-slf-s2",
+          "media": "slf-s2",
+          "title": "Shangri-La Frontier S2",
+          "badge": "9.5",
+          "meta": "25 eps · ~10h",
+          "note": "Season 2."
+        },
+        {
+          "id": "t95-your-name",
+          "media": "your-name",
+          "title": "Your Name",
+          "alt": "Kimi no Na wa",
+          "badge": "9.5",
+          "meta": "Film · 106 min",
+          "note": "Shinkai. 9.5."
+        },
+        {
+          "id": "t95-weathering",
+          "media": "weathering",
+          "title": "Weathering With You",
+          "alt": "Tenki no Ko",
+          "badge": "9.5",
+          "meta": "Film · 112 min",
+          "note": "Shinkai. 9.5."
+        },
+        {
+          "id": "t95-misfit-s1",
+          "media": "misfit",
+          "title": "The Misfit of Demon King Academy S1",
+          "badge": "9.5",
+          "meta": "13 eps · ~5.2h",
+          "note": "Season 1."
+        },
+        {
+          "id": "t95-misfit-s2",
+          "media": "misfit-s2",
+          "title": "The Misfit of Demon King Academy S2",
+          "badge": "9.5",
+          "meta": "24 eps · ~9.6h",
+          "note": "Season 2 (Cour 1 + 2)."
+        },
+        {
+          "id": "t95-apothecary-s1",
+          "media": "apothecary",
+          "title": "The Apothecary Diaries S1",
+          "badge": "9.5",
+          "meta": "24 eps · ~9.6h",
+          "note": "Season 1."
+        },
+        {
+          "id": "t95-apothecary-s2",
+          "media": "apothecary-s2",
+          "title": "The Apothecary Diaries S2",
+          "badge": "9.5",
+          "meta": "24 eps · ~9.6h",
+          "note": "Season 2."
+        },
+        {
+          "id": "t95-loner",
+          "media": "loner",
+          "title": "Loner Life in Another World",
+          "alt": "Hitoribocchi no Isekai Kouryaku",
+          "badge": "9.5",
+          "meta": "13 eps · ~5.2h",
+          "note": "S1 all watched."
+        },
+        {
+          "id": "t95-seventh-prince-s1",
+          "media": "seventh-prince",
+          "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability S1",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 1.",
+          "alt": "Tensei Shitara Dai Nana Ouji Datta node, Kimamani Majutsu wo Kiwamemasu"
+        },
+        {
+          "id": "t95-seventh-prince-s2",
+          "media": "seventh-prince-s2",
+          "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability S2",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 2.",
+          "alt": "Tensei Shitara Dai Nana Ouji Datta node, Kimamani Majutsu wo Kiwamemasu 2nd Season"
+        },
+        {
+          "id": "t95-dxd",
+          "media": "dxd",
+          "title": "High School DxD",
+          "badge": "9.5",
+          "meta": "12 eps (S1 only) · ~4.8h",
+          "note": "S1 only."
+        },
+        {
+          "id": "t95-dress-up",
+          "media": "dress-up",
+          "title": "My Dress-Up Darling",
+          "alt": "Sono Bisque Doll",
+          "badge": "9.5",
+          "meta": "24 eps · ~9.6h",
+          "note": "Both seasons; S1 Jan–Mar 2022, S2 Jul–Sep 2025."
+        },
+        {
+          "id": "t95-saekano",
+          "media": "saekano",
+          "title": "Saekano: How to Raise a Boring Girlfriend",
+          "badge": "9.5",
+          "meta": "24 eps · ~9.6h",
+          "note": "TV series (S1 + S2). Meta-harem about making a dating sim."
+        },
+        {
+          "id": "t95-saekano-movie",
+          "media": "saekano-movie",
+          "title": "Saekano the Movie: Finale",
+          "badge": "9.5",
+          "meta": "Film · 115 min · ~1.8h",
+          "note": "Finale film; full route to a real ending."
+        },
+        {
+          "id": "t95-appraisal-s1",
+          "media": "appraisal-aristocrat",
+          "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World S1",
+          "alt": "Tensei Kizoku, Kantei Skill de Nariagaru",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 1. 12 episodes. 9.5/10."
+        },
+        {
+          "id": "t95-appraisal-s2",
+          "media": "appraisal-aristocrat-s2",
+          "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World S2",
+          "alt": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 2. 12 episodes. 9.5/10."
+        },
+        {
+          "id": "t95-angel-s1",
+          "media": "angel",
+          "title": "The Angel Next Door Spoils Me Rotten S1",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 1. 9.5/10."
+        },
+        {
+          "id": "t95-quintuplets-movie",
+          "media": "quintuplets-movie",
+          "title": "The Quintessential Quintuplets Movie",
+          "badge": "9.5",
+          "meta": "Film · 136 min · ~2.3h",
+          "note": "Series finale movie; harem romcom that actually picks a winner and pays it off. 9.5."
+        },
+        {
+          "id": "t95-solo",
+          "media": "solo-leveling",
+          "title": "Solo Leveling",
+          "badge": "9.5",
+          "meta": "25 eps (S1 + S2) · ~10h",
+          "note": "Both seasons watched. S3 confirmed Jun 2026, expected 2027–2028; movie 'Beyond the System' announced Jul 2026, no date."
+        },
+        {
+          "id": "t95-plastic-memories",
+          "media": "plastic-memories",
+          "title": "Plastic Memories",
+          "badge": "9.5",
+          "meta": "13 eps · ~5.2h",
+          "note": "2015, Doga Kobo; Giftia androids hit expiry, MC works retrieval; sad ending earns it. 9.5."
+        },
+        {
+          "id": "t95-shield-hero-s1",
+          "media": "shield-hero",
+          "title": "The Rising of the Shield Hero S1",
+          "badge": "9.5",
+          "meta": "25 eps · ~10h",
+          "note": "Season 1. 9.5/10."
+        },
+        {
+          "id": "t95-sao-s2",
+          "media": "sao-s2",
+          "title": "Sword Art Online II",
+          "badge": "9.5",
+          "meta": "24 eps · ~9.6h",
+          "note": "Phantom Bullet & Mother's Rosario arcs. 9.5."
+        },
+        {
+          "id": "t95-parallel-pharmacy",
+          "media": "parallel-pharmacy",
+          "title": "Parallel World Pharmacy",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Complete. 9.5."
+        },
+        {
+          "id": "t95-sakamoto-s1",
+          "media": "sakamoto",
+          "title": "Sakamoto Days S1",
+          "badge": "9.5",
+          "meta": "11 eps · ~4.4h",
+          "note": "Season 1 (Part 1). 11 episodes. 9.5/10."
+        },
+        {
+          "id": "t95-remake-our-life",
+          "media": "remake-our-life",
+          "title": "Remake Our Life!",
+          "alt": "Bokutachi no Remake",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Time-slip second-chance college creative life. 12 episodes complete. 9.5/10."
+        },
+        {
+          "id": "t95-100-girlfriends-s1",
+          "media": "100-girlfriends",
+          "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You S1",
+          "alt": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 1. 12 episodes, complete. 9.5/10."
+        },
+        {
+          "id": "t95-100-girlfriends-s2",
+          "media": "100-girlfriends-s2",
+          "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You S2",
+          "alt": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 2. 12 episodes, complete. 9.5/10."
+        },
+        {
+          "id": "t95-mobseka-s1",
+          "media": "mobseka",
+          "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs S1",
+          "alt": "Otomege Sekai wa Mob ni Kibishii Sekai desu",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 1 (2022), complete. 9.5/10."
+        },
+        {
+          "id": "t95-oshi-s1",
+          "media": "oshi-no-ko",
+          "title": "Oshi no Ko S1",
+          "alt": "[Oshi no Ko]",
+          "badge": "9.5",
+          "meta": "11 eps · ~4.4h",
+          "note": "Season 1 (2023). 11 episodes. 9.5/10."
+        },
+        {
+          "id": "t95-oshi-s2",
+          "media": "oshi-s2",
+          "title": "Oshi no Ko S2",
+          "alt": "[Oshi no Ko] 2nd Season",
+          "badge": "9.5",
+          "meta": "13 eps · ~5.2h",
+          "note": "Season 2 / Tokyo Blade 2.5D Stage Play arc. 13 episodes. 9.5/10."
+        },
+        {
+          "id": "t95-oshi-s3",
+          "media": "oshi-s3",
+          "title": "Oshi no Ko S3",
+          "alt": "[Oshi no Ko] 3rd Season",
+          "badge": "9.5",
+          "meta": "11 eps · ~4.4h",
+          "note": "Season 3. 11 episodes. 9.5/10."
+        },
+        {
+          "id": "t95-cautious-hero",
+          "media": "cautious-hero",
+          "title": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+          "alt": "Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru",
+          "badge": "9.5",
+          "meta": "12 eps · ~4.8h",
+          "note": "Complete 12 episodes. 9.5/10."
+        }
+      ]
+    },
+    {
+      "id": "loved-9",
+      "title": "Loved 9",
+      "subtitle": "the strong recommend shelf",
+      "tag": "26 entries",
+      "accent": "#7ec9a8",
+      "items": [
+        {
+          "id": "l9-angel-s2",
+          "media": "angel-s2",
+          "title": "The Angel Next Door Spoils Me Rotten S2",
+          "badge": "9",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 2. 9/10."
+        },
+        {
+          "id": "l9-tomodachi",
+          "media": "tomodachi-game",
+          "title": "Tomodachi Game",
+          "badge": "9",
+          "meta": "12 eps · ~4.8h",
+          "note": "Complete."
+        },
+        {
+          "id": "l9-death-note",
+          "media": "death-note",
+          "title": "Death Note",
+          "badge": "9",
+          "meta": "37 eps · ~14.8h",
+          "note": "Complete."
+        },
+        {
+          "id": "l9-zom",
+          "media": "zom100",
+          "title": "Zom 100: Bucket List of the Dead",
+          "alt": "Zombie ni Naru Made ni Shitai 100 no Koto",
+          "badge": "9",
+          "meta": "12 eps · ~4.8h",
+          "note": "S1 only; zombie apocalypse but the opposite of a suffer-loop — MC quits his black-company job and starts living."
+        },
+        {
+          "id": "l9-toradora",
+          "media": "toradora",
+          "title": "Toradora!",
+          "badge": "9",
+          "meta": "25 eps · ~10h",
+          "note": "Complete (plus 1 OVA special not counted); romance payoff lands late but lands."
+        },
+        {
+          "id": "l9-opm",
+          "media": "opm",
+          "title": "One Punch Man",
+          "badge": "9",
+          "meta": "24 eps (S1 + S2) · ~9.6h",
+          "note": "S3 dropped (bad)."
+        },
+        {
+          "id": "l9-demon-slayer-s1",
+          "media": "demon-slayer",
+          "title": "Demon Slayer: Unwavering Resolve Arc",
+          "badge": "9",
+          "meta": "26 eps · ~10.4h",
+          "note": "Season 1. Tanjiro Kamado, Unwavering Resolve Arc."
+        },
+        {
+          "id": "l9-demon-slayer-s2",
+          "media": "demon-slayer-s2",
+          "title": "Demon Slayer: Entertainment District Arc",
+          "badge": "9",
+          "meta": "11 eps · ~4.4h",
+          "note": "Entertainment District Arc."
+        },
+        {
+          "id": "l9-demon-slayer-s3",
+          "media": "demon-slayer-s3",
+          "title": "Demon Slayer: Swordsmith Village Arc",
+          "badge": "9",
+          "meta": "11 eps · ~4.4h",
+          "note": "Swordsmith Village Arc."
+        },
+        {
+          "id": "l9-demon-slayer-s4",
+          "media": "demon-slayer-s4",
+          "title": "Demon Slayer: Hashira Training Arc",
+          "badge": "9",
+          "meta": "8 eps · ~3.2h",
+          "note": "Hashira Training Arc."
+        },
+        {
+          "id": "l9-mugen-train",
+          "media": "mugen-train",
+          "title": "Demon Slayer: Mugen Train",
+          "badge": "9",
+          "meta": "Film · 117 min · ~2h",
+          "note": "Theatrical movie; Rengoku vs Akaza."
+        },
+        {
+          "id": "l9-domestic",
+          "media": "domestic-gf",
+          "title": "Domestic Girlfriend",
+          "alt": "Domestic na Kanojo",
+          "badge": "9",
+          "meta": "12 eps · ~4.8h",
+          "note": "S1 only exists."
+        },
+        {
+          "id": "l9-stepmom",
+          "media": "stepmom-ex",
+          "title": "My Stepmother's Daughter Is My Ex",
+          "badge": "9",
+          "meta": "12 eps · ~4.8h",
+          "note": "S1 full."
+        },
+        {
+          "id": "l9-wind-breaker-s1",
+          "media": "wind-breaker",
+          "title": "Wind Breaker S1",
+          "badge": "9",
+          "meta": "13 eps · ~5.2h",
+          "note": "Season 1."
+        },
+        {
+          "id": "l9-wind-breaker-s2",
+          "media": "wind-breaker-s2",
+          "title": "Wind Breaker S2",
+          "badge": "9",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 2."
+        },
+        {
+          "id": "l9-happy-marriage",
+          "media": "happy-marriage",
+          "title": "My Happy Marriage",
+          "badge": "9",
+          "meta": "12 eps (S1 only) · ~4.8h",
+          "note": "S1 only."
+        },
+        {
+          "id": "l9-witch-hat",
+          "media": "witch-hat",
+          "title": "Witch Hat Atelier",
+          "badge": "9",
+          "meta": "13 eps · ~5.2h",
+          "note": "All watched; S2 announced."
+        },
+        {
+          "id": "l9-marriage-toxin",
+          "media": "marriage-toxin",
+          "title": "Marriage Toxin",
+          "badge": "9",
+          "meta": "13 eps · ~5.2h",
+          "note": "S2 announced."
+        },
+        {
+          "id": "l9-shield-hero-s2",
+          "media": "shield-hero-s2",
+          "title": "The Rising of the Shield Hero S2",
+          "badge": "9",
+          "meta": "13 eps · ~5.2h",
+          "note": "Season 2. 9/10."
+        },
+        {
+          "id": "l9-shield-hero-s3",
+          "media": "shield-hero-s3",
+          "title": "The Rising of the Shield Hero S3",
+          "badge": "9",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 3. 9/10."
+        },
+        {
+          "id": "l9-grieving-soul",
+          "media": "grieving-soul",
+          "title": "Let This Grieving Soul Retire",
+          "badge": "9",
+          "meta": "13 eps · ~5.2h",
+          "note": "S1 all watched. 9/10."
+        },
+        {
+          "id": "l9-redo-healer",
+          "media": "redo-healer",
+          "title": "Redo of Healer",
+          "alt": "Kaifuku Jutsushi no Yarinaoshi",
+          "badge": "9",
+          "meta": "12 eps · ~4.8h",
+          "note": "Revenge dark fantasy. 12 episodes complete. 9/10."
+        },
+        {
+          "id": "l9-instant-death",
+          "media": "instant-death",
+          "title": "My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!",
+          "alt": "Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+          "badge": "9",
+          "meta": "12 eps · ~4.8h",
+          "note": "Overpowered Yogiri Takatou instant-death cheat isekai. 12 episodes complete. 9/10."
+        },
+        {
+          "id": "l9-jjk-s2",
+          "media": "jjk-s2",
+          "title": "Jujutsu Kaisen S2",
+          "badge": "9",
+          "meta": "23 eps · ~9.2h",
+          "note": "Season 2: Hidden Inventory & Shibuya Incident."
+        },
+        {
+          "id": "l9-girl-glasses",
+          "media": "girl-glasses",
+          "title": "The Girl I Like Forgot Her Glasses",
+          "alt": "Suki na Ko ga Megane wo Wasureta",
+          "badge": "9",
+          "meta": "13 eps · ~5.2h",
+          "note": "Complete 13-episode season. 9/10."
+        },
+        {
+          "id": "l9-the-new-gate",
+          "media": "the-new-gate",
+          "title": "THE NEW GATE",
+          "badge": "9",
+          "meta": "12 eps · ~4.8h",
+          "note": "Complete 12 episodes. 9/10."
+        }
+      ]
+    },
+    {
+      "id": "liked-8",
+      "title": "Liked 8–8.5",
+      "subtitle": "good, with reservations",
+      "tag": "11 entries",
+      "accent": "#82bcdc",
+      "items": [
+        {
+          "id": "l8-eminence",
+          "media": "eminence",
+          "title": "The Eminence in Shadow",
+          "badge": "6h",
+          "meta": "summary version · no score",
+          "note": "Watched as explained / summary version, not full series — counted as 6h (not 32 eps), no score given."
+        },
+        {
+          "id": "l8-blue-lock",
+          "media": "blue-lock",
+          "title": "Blue Lock",
+          "badge": "8",
+          "meta": "38 eps (S1 + S2) · ~15.2h",
+          "note": "Both seasons."
+        },
+        {
+          "id": "l8-dr-stone",
+          "media": "dr-stone",
+          "title": "Dr. Stone",
+          "badge": "8.5",
+          "meta": "~80 of 95 eps · ~32h",
+          "note": "NOT finished, most watched. 24 + 11 + 1 special + 22 + 37."
+        },
+        {
+          "id": "l8-chainsaw",
+          "media": "chainsaw",
+          "title": "Chainsaw Man S1",
+          "badge": "8",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 1."
+        },
+        {
+          "id": "l8-chainsaw-reze",
+          "media": "csm-reze",
+          "title": "Chainsaw Man – The Movie: Reze Arc",
+          "badge": "8.5",
+          "meta": "Film · ~1.7h",
+          "note": "Reze / Bomb Girl arc movie."
+        },
+        {
+          "id": "l8-jjk-s1",
+          "media": "jjk",
+          "title": "Jujutsu Kaisen S1",
+          "badge": "8.5",
+          "meta": "24 eps · ~9.6h",
+          "note": "Season 1."
+        },
+        {
+          "id": "l8-spy-s1",
+          "media": "spy-family",
+          "title": "SPY x FAMILY S1",
+          "badge": "8",
+          "meta": "25 eps · ~10h",
+          "note": "Season 1."
+        },
+        {
+          "id": "l8-spy-s2",
+          "media": "spy-family-s2",
+          "title": "SPY x FAMILY S2",
+          "badge": "8",
+          "meta": "~6 of 12 eps · ~2.4h",
+          "note": "Season 2 (~6 eps watched)."
+        },
+        {
+          "id": "l8-kaguya",
+          "media": "kaguya",
+          "title": "Kaguya-sama",
+          "alt": "Kaguya-sama: Love is War",
+          "badge": "8",
+          "meta": "6 eps (half of S1) · ~2.4h",
+          "note": "Half of S1."
+        },
+        {
+          "id": "l8-shield-hero-s4",
+          "media": "shield-hero-s4",
+          "title": "The Rising of the Shield Hero S4",
+          "badge": "8",
+          "meta": "12 eps · ~4.8h",
+          "note": "Season 4. 8/10."
+        },
+        {
+          "id": "l8-vending-machine",
+          "media": "vending-machine",
+          "title": "Reborn as a Vending Machine, I Now Wander the Dungeon",
+          "alt": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+          "badge": "8",
+          "meta": "12 eps · ~4.8h",
+          "note": "Reincarnated as a vending machine named Boxxo. 12 episodes complete. 8/10."
+        }
+      ]
+    },
+    {
+      "id": "mid",
+      "title": "Mid / Slow for you 6–7.5",
+      "subtitle": "it didn't click",
+      "tag": "4 titles",
+      "accent": "#c7b18c",
+      "items": [
+        {
+          "id": "mid-appraiser",
+          "media": "appraiser-class",
+          "title": "Even Given the Worthless \"Appraiser\" Class",
+          "alt": "Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest",
+          "badge": "7.5",
+          "meta": "13 eps · ~5.2h",
+          "note": "Watched all 13 episodes. 7.5."
+        },
+        {
+          "id": "mid-aot",
+          "media": "aot",
+          "title": "Attack on Titan",
+          "badge": "6–7.5",
+          "meta": "~31 eps · ~12.4h · discontinued",
+          "note": "S1 25 + 5–7 of S2. Discontinued."
+        },
+        {
+          "id": "mid-frieren",
+          "media": "frieren",
+          "title": "Frieren",
+          "alt": "Frieren: Beyond Journey's End",
+          "badge": "7",
+          "meta": "5 eps",
+          "note": "Too slow."
+        },
+        {
+          "id": "mid-overflow",
+          "media": "overflow",
+          "title": "Overflow",
+          "badge": "—",
+          "meta": "8 eps · unrated · ~1h",
+          "note": "Rating withheld; short-form, ~1h total.",
+          "description": "Short-form series. Rating withheld."
+        }
+      ]
+    },
+    {
+      "id": "dropped",
+      "title": "Dropped / Disliked",
+      "subtitle": "the graveyard",
+      "tag": "18 entries",
+      "accent": "#d98080",
+      "muted": true,
+      "items": [
+        {
+          "id": "d-overlord",
+          "media": "overlord",
+          "title": "Overlord",
+          "badge": "DROPPED",
+          "meta": "6 eps · 2.4h",
+          "note": "Dropped."
+        },
+        {
+          "id": "d-realist",
+          "media": "realist-hero",
+          "title": "How a Realist Hero Rebuilt the Kingdom",
+          "badge": "DROPPED",
+          "meta": "1 ep · 0.4h",
+          "note": "Dropped."
+        },
+        {
+          "id": "d-konosuba",
+          "media": "konosuba",
+          "title": "KonoSuba",
+          "badge": "8 EPS",
+          "meta": "8 eps · ~3.2h",
+          "note": "Watched ~8 episodes; disliked and dropped."
+        },
+        {
+          "id": "d-jellyfish",
+          "media": "jellyfish",
+          "title": "Jellyfish Can't Swim in the Night",
+          "badge": "0 EPS",
+          "meta": "0 eps",
+          "note": "0 eps watched."
+        },
+        {
+          "id": "d-log-horizon",
+          "media": "log-horizon",
+          "title": "Log Horizon",
+          "badge": "DROPPED",
+          "meta": "half of ep 1 · 0.4h",
+          "note": "Dropped."
+        },
+        {
+          "id": "d-pancreas",
+          "media": "pancreas",
+          "title": "I Want to Eat Your Pancreas",
+          "badge": "DROPPED",
+          "meta": "~0.5h",
+          "note": "Dropped early."
+        },
+        {
+          "id": "d-horimiya",
+          "media": "horimiya",
+          "title": "Horimiya",
+          "badge": "DROPPED",
+          "meta": "6 eps · 2.4h",
+          "note": "Dropped."
+        },
+        {
+          "id": "d-durarara",
+          "media": "durarara",
+          "title": "Durarara!!",
+          "badge": "DROPPED",
+          "meta": "1 ep · 0.4h",
+          "note": "Dropped; no hook."
+        },
+        {
+          "id": "d-bebop",
+          "media": "cowboy-bebop",
+          "title": "Cowboy Bebop",
+          "badge": "NOT WATCHED",
+          "meta": "not watched",
+          "note": "Not watched."
+        },
+        {
+          "id": "d-clannad",
+          "media": "clannad",
+          "title": "Clannad",
+          "badge": "1 EP",
+          "meta": "1 ep · ~0.4h",
+          "note": "Dropped after first episode."
+        },
+        {
+          "id": "d-fmab",
+          "media": "fmab",
+          "title": "Fullmetal Alchemist: Brotherhood",
+          "badge": "1 EP",
+          "meta": "1 ep · ~0.4h",
+          "note": "Dropped after first episode."
+        },
+        {
+          "id": "d-sao-s3",
+          "media": "sao-s3",
+          "title": "Sword Art Online: Alicization",
+          "badge": "9 · DROPPED",
+          "meta": "~6 eps · ~2.4h · dropped",
+          "note": "S3 dropped after 4–8 eps (bad)."
+        },
+        {
+          "id": "d-dorohedoro",
+          "media": "dorohedoro",
+          "title": "Dorohedoro",
+          "badge": "1 EP",
+          "meta": "1 ep · ~0.4h",
+          "note": "Dropped after first episode."
+        },
+        {
+          "id": "d-asteroid-in-love",
+          "media": "asteroid-in-love",
+          "title": "Asteroid in Love",
+          "alt": "Koisuru Asteroid",
+          "badge": "1 EP",
+          "meta": "1 ep · ~0.4h",
+          "note": "Dropped after first episode."
+        },
+        {
+          "id": "d-sakamoto-s2",
+          "media": "sakamoto-s2",
+          "title": "Sakamoto Days S2",
+          "badge": "5 EPS",
+          "meta": "5 eps · ~2h · dropped",
+          "note": "Season 2 (Part 2). Dropped after episode 5."
+        },
+        {
+          "id": "d-failure-frame",
+          "media": "failure-frame",
+          "title": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells",
+          "alt": "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
+          "badge": "DROPPED",
+          "meta": "5 eps · 2.0h",
+          "note": "Dropped after episode 5."
+        },
+        {
+          "id": "d-grimgar",
+          "media": "grimgar",
+          "title": "Grimgar of Fantasy and Ash",
+          "alt": "Hai to Gensou no Grimgar",
+          "badge": "DROPPED",
+          "meta": "2 eps · 0.8h",
+          "note": "Dropped after episode 2."
+        },
+        {
+          "id": "d-isekai-ojisan",
+          "media": "isekai-ojisan",
+          "title": "Uncle from Another World (Isekai Ojisan)",
+          "alt": "Isekai Oji-san",
+          "badge": "DROPPED",
+          "meta": "4 eps · 1.6h",
+          "note": "Dropped after episode 4."
+        }
+      ]
+    },
+    {
+      "id": "not-watched",
+      "title": "Not Watched Yet",
+      "subtitle": "the shortlist",
+      "tag": "3 TITLES",
+      "accent": "#8f98a8",
+      "muted": true,
+      "items": [
+        {
+          "id": "nw-neverland",
+          "media": "promised-neverland",
+          "title": "The Promised Neverland",
+          "badge": "TBR",
+          "meta": "S1 only · 12 eps · ~4.8h",
+          "note": "S1 only — skip S2."
+        },
+        {
+          "id": "nw-kaiju",
+          "media": "kaiju",
+          "title": "Kaiju No. 8",
+          "badge": "TBR",
+          "meta": "24 eps · ~9.5h",
+          "note": "S1 12, S2 11, +1 special."
+        },
+        {
+          "id": "nw-mob",
+          "media": "mob-psycho",
+          "title": "Mob Psycho 100",
+          "badge": "TBR",
+          "meta": "37 eps · ~15h",
+          "note": "3 seasons: 12 + 13 + 12."
+        }
+      ]
+    },
+    {
+      "id": "one-piece",
+      "title": "One Piece",
+      "subtitle": "separate track — not counted in anime totals",
+      "tag": "3 entries",
+      "accent": "#e2a060",
+      "items": [
+        {
+          "id": "op-anime",
+          "media": "one-piece",
+          "title": "One Piece — Anime",
+          "badge": "27 EPS",
+          "meta": "27 eps · ~10.8h",
+          "note": "Stopped around / after Arlong Park; exact resume point TBD."
+        },
+        {
+          "id": "op-la-s1",
+          "media": "one-piece-live-s1",
+          "title": "Live Action S1",
+          "alt": "East Blue → Arlong Park",
+          "badge": "DONE",
+          "meta": "8 eps · ~8h",
+          "note": "East Blue → Arlong Park. Confirmed through Nami's rescue.",
+          "progress": [
+            8,
+            8
+          ],
+          "description": "Netflix live-action adaptation — East Blue saga through Arlong Park. 8 episodes."
+        },
+        {
+          "id": "op-la-s2",
+          "media": "one-piece-live-s2",
+          "title": "Live Action S2",
+          "alt": "Into the Grand Line",
+          "badge": "5.5 / 8",
+          "meta": "eps 1–5 + part of ep 6",
+          "note": "Watched: Loguetown, Reverse Mountain, Whiskey Peak, Little Garden (eps 1–5). Next: finish ep 6 \"Nami Deerest\", then ep 7 \"Reindeer Shames\" (Chopper's backstory) and ep 8 \"Deer and Loathing in Drum Kingdom\" (Chopper joins).",
+          "progress": [
+            5,
+            8
+          ],
+          "description": "Netflix live-action adaptation — Into the Grand Line. Currently partway through episode 6."
+        }
+      ]
+    },
+    {
+      "id": "live-action",
+      "title": "Live Action",
+      "subtitle": "watched, not counted in anime totals",
+      "tag": "1 entry",
+      "accent": "#c9a0c4",
+      "items": [
+        {
+          "id": "la-parasyte-grey",
+          "media": "parasyte-la-grey",
+          "title": "Parasyte: The Grey",
+          "badge": "SPIN-OFF",
+          "meta": "Netflix Korea · 6 eps · ~5h",
+          "note": "Spin-off, same universe.",
+          "description": "Korean Netflix spin-off set in the same universe as Parasyte."
+        }
+      ],
+      "footer": "Live-action total: ~5h Parasyte: The Grey; ~18h including One Piece live action (S1 ~8h + S2 eps 1–5 ~5h)."
+    }
+  ],
+  "totals": {
+    "stats": [
+      {
+        "value": "1,852",
+        "label": "episodes"
+      },
+      {
+        "value": "12",
+        "label": "films"
+      },
+      {
+        "value": "7.5h",
+        "label": "extras"
+      },
+      {
+        "value": "~769",
+        "label": "hours watched"
+      },
+      {
+        "value": "32.1",
+        "label": "days nonstop"
+      }
+    ],
+    "bars": [
+      {
+        "label": "Currently Watching",
+        "hours": 65.2,
+        "display": "65.2h",
+        "accent": "#e7b267"
+      },
+      {
+        "label": "Perfect 10",
+        "hours": 118.4,
+        "display": "118.4h",
+        "accent": "#ef9a78"
+      },
+      {
+        "label": "Top Tier 9.5",
+        "hours": 282,
+        "display": "282.0h",
+        "accent": "#b09bea"
+      },
+      {
+        "label": "Loved 9",
+        "hours": 150,
+        "display": "150.0h",
+        "accent": "#7ec9a8"
+      },
+      {
+        "label": "Liked 8–8.5",
+        "hours": 86,
+        "display": "86.0h",
+        "accent": "#82bcdc"
+      },
+      {
+        "label": "Mid / Slow",
+        "hours": 19.6,
+        "display": "19.6h",
+        "accent": "#c7b18c"
+      },
+      {
+        "label": "Dropped",
+        "hours": 19.4,
+        "display": "19.4h",
+        "accent": "#d98080"
+      },
+      {
+        "label": "Films",
+        "hours": 21.4,
+        "display": "21.4h",
+        "accent": "#e5c15a"
+      },
+      {
+        "label": "Extras",
+        "hours": 7.5,
+        "display": "7.5h",
+        "accent": "#8f98a8"
+      }
+    ],
+    "notes": [
+      "Watched: ~1,851.5 episodes + 12 movies + 7.5h extras = ~769.5 hours (~32.1 days nonstop).",
+      "Recount Nov 16 (line-by-line, duplicates excluded): CW 163 + Perfect10 296 + Top9.5 705 + Loved9 375 + Liked8 215 + Mid 49 + Dropped 48.5 = 1,851.5 eps × 0.4h = 740.6h.",
+      "Section hours: CW 65.2, Perfect10 118.4, Top9.5 282.0, Loved9 150.0, Liked8 86.0, Mid 19.6, Dropped 19.4 = 740.6h.",
+      "Films: 12 = 21.4h (Dreaming Girl 1.5, Sister Venturing Out 1.25, Knapsack Kid 1.25, A Silent Voice 2.2, NGNL Zero 1.7, Suzume 2.0, Your Name 1.8, Weathering With You 1.9, Mugen Train 2.0, Chainsaw Man Reze 1.7, Saekano Finale 1.8, Quintuplets 2.27).",
+      "Extras: Eminence 6h (0 eps), Overflow ~1h (0 eps), I Want to Eat Your Pancreas ~0.5h → 7.5h.",
+      "Counted once: Rascal S1 (= Bunny Girl Senpai) and Santa Claus are in CW and only listed in Peak; Blue Box S1 is in CW and only listed in Perfect 10; the 3 Rascal films are in Films and only listed in Peak / Perfect 10. Spider 24 eps counted once (rewatch ~19.2h not added).",
+      "Peak Tier adds 0 unique eps: Bunny Girl S1 is the same 13 as Rascal S1 in CW.",
+      "Longest single series: Slime (96 eps), Dr. Stone (95), Demon Slayer (63), Shield Hero (62), SAO (~55), COTE (54), SLF (50), Apothecary (48).",
+      "Partial / estimated: Dr. Stone (~80/95), SAO S3 (~6 eps), AoT S2 (5–7), Kaguya (6), SPY S2 (~6)."
+    ]
+  },
+  "taste": {
+    "yes": [
+      "Game system, level-ups, boss fights, competent MC, nation building, science cheat, fast payoff.",
+      "Romance / life-reset / character drama with a strong hook (ReLIFE 10, Suzume 9.5).",
+      "Emotional gut-punch drama — A Silent Voice 10, Your Lie in April 9.5.",
+      "Quiet romance / step-sibling drama — Days with My Stepsister 10, Domestic Girlfriend 9, My Stepmom's Daughter 9."
+    ],
+    "no": [
+      "Suffer-loop, depressed MC, slow slice-of-life, gag parody, politics-only without fights.",
+      "Tearjerker for its own sake (Pancreas dropped), slow-burn romance without drama (Horimiya ep 6 dropped)."
+    ],
+    "note": "Observed tendencies, not rules — override anytime."
+  }
+}
