@@ -70,8 +70,8 @@ unpinned records when it refreshes the AniList-backed ones.
 ## Coverage
 
 - 12 list sections (Currently Watching through Live Action)
-- 164 cards, including duplicate mentions that the original list keeps in
+- 165 cards, including duplicate mentions that the original list keeps in
   multiple tiers (e.g. the Rascal films and Blue Box S1)
-- 156 cached poster records, all with local artwork
+- 162 cached poster records, all with local artwork
 - Totals and taste notes are rendered as their own sections
 - No frameworks, trackers, or external runtime dependencies

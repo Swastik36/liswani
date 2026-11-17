@@ -2724,52 +2724,6 @@
     "poster": "assets/img/posters/one-piece-live-s2.webp",
     "banner": "assets/img/posters/one-piece-live-s2.webp"
   },
-  "parasyte-la-1": {
-    "id": null,
-    "key": "parasyte-la-1",
-    "title": {
-      "romaji": "Kiseijuu: Part 1",
-      "english": "Parasyte: Part 1"
-    },
-    "description": "Japanese live-action film adaptation of Parasyte, directed by Takashi Yamazaki.",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "format": "MOVIE",
-    "year": 2014,
-    "episodes": null,
-    "duration": 109,
-    "status": "FINISHED",
-    "averageScore": null,
-    "siteUrl": null,
-    "color": null,
-    "poster": "assets/img/posters/parasyte-la-1.webp",
-    "banner": "assets/img/banners/parasyte-la-1.webp"
-  },
-  "parasyte-la-2": {
-    "id": null,
-    "key": "parasyte-la-2",
-    "title": {
-      "romaji": "Kiseijuu: Part 2",
-      "english": "Parasyte: Part 2"
-    },
-    "description": "Japanese live-action sequel film adaptation of Parasyte, concluding Shinichi and Migi’s journey.",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "format": "MOVIE",
-    "year": 2015,
-    "episodes": null,
-    "duration": 117,
-    "status": "FINISHED",
-    "averageScore": null,
-    "siteUrl": null,
-    "color": null,
-    "poster": "assets/img/posters/parasyte-la-2.webp",
-    "banner": "assets/img/banners/parasyte-la-2.webp"
-  },
   "parasyte-la-grey": {
     "id": null,
     "key": "parasyte-la-grey",
@@ -4165,5 +4119,31 @@
     "color": "#e4935d",
     "poster": "assets/img/posters/isekai-ojisan.webp",
     "banner": "assets/img/banners/isekai-ojisan.webp"
+  },
+  "ranking-of-kings": {
+    "id": 113717,
+    "key": "ranking-of-kings",
+    "title": {
+      "romaji": "Ousama Ranking",
+      "english": "Ranking of Kings",
+      "native": "王様ランキング"
+    },
+    "description": "Unable to hear, speak, or wield a sword, Prince Bojji doesn’t seem like a typical heir to the throne—and his kingdom agrees. But his fateful encounter with Kage, a shadow on the ground, gives him his first true friend. The two set off on a grand adventure and, together, form a bond that can overcome any obstacle...even being king.\n<br><br>\n(Source: Funimation)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "year": 2021,
+    "episodes": 23,
+    "duration": 23,
+    "status": "FINISHED",
+    "averageScore": 83,
+    "siteUrl": "https://anilist.co/anime/113717",
+    "color": "#e4935d",
+    "poster": "assets/img/posters/ranking-of-kings.webp",
+    "banner": "assets/img/banners/ranking-of-kings.webp"
   }
 }

@@ -62,6 +62,7 @@ Time estimates: ~24 min/episode unless noted. Movies use real runtime.
 - A Couple of Cuckoos (Kakkou no Iinazuke) - 24 eps - 10/10 - ~9.6h - complete
 - Seirei Gensouki: Spirit Chronicles S1 - 12 eps - 10/10 - ~4.8h - season 1 (2021), complete
 - Seirei Gensouki: Spirit Chronicles S2 - 12 eps - 10/10 - ~4.8h - season 2 (2024), complete
+- Ranking of Kings (Ousama Ranking) - 23 eps - 10/10 - ~9.2h - complete
 
 ## Top Tier 9.5
 - Classroom of the Elite S1 - 12 eps - 9.5 - ~4.8h
@@ -196,9 +197,9 @@ Time estimates: ~24 min/episode unless noted. Movies use real runtime.
 - Live-action total: ~5h Parasyte: The Grey; ~18h including One Piece live action (S1 ~8h + S2 eps 1-5 ~5h)
 
 ## Totals
-- Watched: ~1851.5 episodes + 12 movies + 7.5h extras = ~769.5 hours (~32.1 days nonstop)
-- Recount Nov 16 (line-by-line, duplicates excluded). Episodes: CW 163 + Perfect10 296 + Top9.5 705 + Loved9 375 + Liked8 215 + Mid 49 + Dropped 48.5 = 1851.5 eps x 0.4h = 740.6h. Peak Tier adds 0 unique eps: Bunny Girl S1 is the same 13 as Rascal S1 in CW.
-- Section hours: CW 65.2 (episodes only; the 3 Rascal films are in Films), Perfect10 118.4, Top9.5 282.0, Loved9 150.0, Liked8 86.0, Mid 19.6, Dropped 19.4 = 740.6h
+- Watched: ~1874.5 episodes + 12 movies + 7.5h extras = ~778.7 hours (~32.4 days nonstop)
+- Recount Nov 16 (line-by-line, duplicates excluded). Episodes: CW 163 + Perfect10 319 + Top9.5 705 + Loved9 375 + Liked8 215 + Mid 49 + Dropped 48.5 = 1874.5 eps x 0.4h = 749.8h. Peak Tier adds 0 unique eps: Bunny Girl S1 is the same 13 as Rascal S1 in CW.
+- Section hours: CW 65.2 (episodes only; the 3 Rascal films are in Films), Perfect10 127.6, Top9.5 282.0, Loved9 150.0, Liked8 86.0, Mid 19.6, Dropped 19.4 = 749.8h
 - Films: 12 = 21.4h (Dreaming Girl 1.5, Sister Venturing Out 1.25, Knapsack Kid 1.25, A Silent Voice 2.2, NGNL Zero 1.7, Suzume 2.0, Your Name 1.8, Weathering With You 1.9, Mugen Train 2.0, Chainsaw Man Reze 1.7, Saekano Finale 1.8, Quintuplets 2.27)
 - Extras: Eminence 6h (0 eps), Overflow ~1h (0 eps), I Want to Eat Your Pancreas ~0.5h -> 7.5h
 - Counted once: Rascal S1 (= Bunny Girl Senpai) and Santa Claus are in CW and only listed in Peak; Blue Box S1 is in CW and only listed in Perfect 10; the 3 Rascal films are in Films and only listed in Peak/Perfect 10. Spider 24 eps counted once (rewatch ~19.2h not added)

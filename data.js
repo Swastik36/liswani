@@ -4,12 +4,12 @@ window.ANIME_DATA = {
     "title": "Anime List",
     "owner": "Swastik",
     "date": "Nov 2026",
-    "profile": "1,852 episodes · 12 films · ~769 hours total across 12 list sections, sorted from current watching to dropped & live-action.",
+    "profile": "1,875 episodes · 12 films · ~779 hours total across 12 list sections, sorted from current watching to dropped & live-action.",
     "timeNote": "~24 min per episode unless noted. Movies use real runtime."
   },
   "heroStats": [
     {
-      "value": "1,852",
+      "value": "1,875",
       "label": "episodes"
     },
     {
@@ -21,11 +21,11 @@ window.ANIME_DATA = {
       "label": "extras"
     },
     {
-      "value": "~769",
+      "value": "~779",
       "label": "hours watched"
     },
     {
-      "value": "32.1",
+      "value": "32.4",
       "label": "days nonstop"
     }
   ],
@@ -1158,7 +1158,7 @@ window.ANIME_DATA = {
       "id": "perfect-10",
       "title": "Perfect 10",
       "subtitle": "the flawless ones",
-      "tag": "21 entries",
+      "tag": "22 entries",
       "accent": "#ef9a78",
       "items": [
         {
@@ -1878,6 +1878,41 @@ window.ANIME_DATA = {
             "english": "Seirei Gensouki: Spirit Chronicles Season 2",
             "native": "精霊幻想記2",
             "siteUrl": "https://anilist.co/anime/141182"
+          }
+        },
+        {
+          "id": "p10-ranking-of-kings",
+          "media": "ranking-of-kings",
+          "title": "Ranking of Kings",
+          "alt": "Ousama Ranking",
+          "badge": "10",
+          "meta": "23 eps · ~9.2h",
+          "note": "Complete 23-episode series (2021). 10/10.",
+          "sectionId": "perfect-10",
+          "sectionTitle": "Perfect 10",
+          "accent": "#ef9a78",
+          "synopsis": "Unable to hear, speak, or wield a sword, Prince Bojji doesn’t seem like a typical heir to the throne—and his kingdom agrees. But his fateful encounter with Kage, a shadow on the ground, gives him his first true friend. The two set off on a grand adventure and, together, form a bond that can overcome any obstacle...even being king.",
+          "image": "assets/img/posters/ranking-of-kings.webp",
+          "banner": "assets/img/banners/ranking-of-kings.webp",
+          "emptyMark": "RO",
+          "emptyLabel": "Ranking of Kings",
+          "info": {
+            "format": "TV",
+            "year": 2021,
+            "episodes": 23,
+            "duration": 23,
+            "status": "FINISHED",
+            "averageScore": 83,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Drama",
+              "Fantasy"
+            ],
+            "romaji": "Ousama Ranking",
+            "english": "Ranking of Kings",
+            "native": "王様ランキング",
+            "siteUrl": "https://anilist.co/anime/113717"
           }
         }
       ]
@@ -5798,7 +5833,7 @@ window.ANIME_DATA = {
   "totals": {
     "stats": [
       {
-        "value": "1,852",
+        "value": "1,875",
         "label": "episodes"
       },
       {
@@ -5810,11 +5845,11 @@ window.ANIME_DATA = {
         "label": "extras"
       },
       {
-        "value": "~769",
+        "value": "~779",
         "label": "hours watched"
       },
       {
-        "value": "32.1",
+        "value": "32.4",
         "label": "days nonstop"
       }
     ],
@@ -5827,8 +5862,8 @@ window.ANIME_DATA = {
       },
       {
         "label": "Perfect 10",
-        "hours": 118.4,
-        "display": "118.4h",
+        "hours": 127.6,
+        "display": "127.6h",
         "accent": "#ef9a78"
       },
       {
@@ -5875,9 +5910,9 @@ window.ANIME_DATA = {
       }
     ],
     "notes": [
-      "Watched: ~1,851.5 episodes + 12 movies + 7.5h extras = ~769.5 hours (~32.1 days nonstop).",
-      "Recount Nov 16 (line-by-line, duplicates excluded): CW 163 + Perfect10 296 + Top9.5 705 + Loved9 375 + Liked8 215 + Mid 49 + Dropped 48.5 = 1,851.5 eps × 0.4h = 740.6h.",
-      "Section hours: CW 65.2, Perfect10 118.4, Top9.5 282.0, Loved9 150.0, Liked8 86.0, Mid 19.6, Dropped 19.4 = 740.6h.",
+      "Watched: ~1,874.5 episodes + 12 movies + 7.5h extras = ~778.7 hours (~32.4 days nonstop).",
+      "Recount Nov 16 (line-by-line, duplicates excluded): CW 163 + Perfect10 319 + Top9.5 705 + Loved9 375 + Liked8 215 + Mid 49 + Dropped 48.5 = 1,874.5 eps × 0.4h = 749.8h.",
+      "Section hours: CW 65.2, Perfect10 127.6, Top9.5 282.0, Loved9 150.0, Liked8 86.0, Mid 19.6, Dropped 19.4 = 749.8h.",
       "Films: 12 = 21.4h (Dreaming Girl 1.5, Sister Venturing Out 1.25, Knapsack Kid 1.25, A Silent Voice 2.2, NGNL Zero 1.7, Suzume 2.0, Your Name 1.8, Weathering With You 1.9, Mugen Train 2.0, Chainsaw Man Reze 1.7, Saekano Finale 1.8, Quintuplets 2.27).",
       "Extras: Eminence 6h (0 eps), Overflow ~1h (0 eps), I Want to Eat Your Pancreas ~0.5h → 7.5h.",
       "Counted once: Rascal S1 (= Bunny Girl Senpai) and Santa Claus are in CW and only listed in Peak; Blue Box S1 is in CW and only listed in Perfect 10; the 3 Rascal films are in Films and only listed in Peak / Perfect 10. Spider 24 eps counted once (rewatch ~19.2h not added).",
@@ -5899,5 +5934,5 @@ window.ANIME_DATA = {
     ],
     "note": "Observed tendencies, not rules — override anytime."
   },
-  "builtAt": "2026-11-16T11:52:39.936Z"
+  "builtAt": "2026-11-17T13:39:12.003Z"
 };
