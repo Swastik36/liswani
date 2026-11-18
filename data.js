@@ -5842,7 +5842,7 @@ window.ANIME_DATA = {
           "sectionTitle": "Live Action",
           "accent": "#c9a0c4",
           "synopsis": "Outside real life — no time, no episodes. Don't search it up.",
-          "image": "assets/img/posters/not-your-life.png",
+          "image": "assets/img/posters/not-your-life-2x3.webp",
           "banner": "assets/img/banners/not-your-life.png",
           "emptyMark": "NY",
           "emptyLabel": "Not Your Life",
@@ -5968,5 +5968,5 @@ window.ANIME_DATA = {
     ],
     "note": "Observed tendencies, not rules — override anytime."
   },
-  "builtAt": "2026-11-18T13:06:24.352Z"
+  "builtAt": "2026-11-18T15:46:53.430Z"
 };
