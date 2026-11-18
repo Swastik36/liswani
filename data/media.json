@@ -4165,5 +4165,31 @@
     "color": "#e4935d",
     "poster": "assets/img/posters/ranking-of-kings.webp",
     "banner": "assets/img/banners/ranking-of-kings.webp"
+  },
+  "snafu": {
+    "id": 14813,
+    "key": "snafu",
+    "title": {
+      "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+      "english": "My Teen Romantic Comedy SNAFU",
+      "native": "やはり俺の青春ラブコメはまちがっている。"
+    },
+    "description": "This romantic comedy revolves around an antisocial high school student named Hikigaya Hachiman with a distorted view on life and no friends or girlfriend. When he sees his classmates talking excitedly about living their adolescent lives, he mutters: \"They're a bunch of liars.\" When he is asked about his future dreams, he responds: \"Not working.\" A teacher gets Hachiman to join the 'Volunteer Service' club, which happens to have the school's prettiest girl: Yukinoshita Yukino.<br><br>\n(Source: Anime News Network)",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "year": 2013,
+    "episodes": 13,
+    "duration": 24,
+    "status": "FINISHED",
+    "averageScore": 78,
+    "siteUrl": "https://anilist.co/anime/14813",
+    "color": "#e4780d",
+    "poster": "assets/img/posters/snafu.webp",
+    "banner": "assets/img/banners/snafu.webp"
   }
 }

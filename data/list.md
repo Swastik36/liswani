@@ -31,6 +31,7 @@ Time estimates: ~24 min/episode unless noted. Movies use real runtime.
 - Condition called love
 - A Couple of Cuckoos Season 2 (Kakkou no Iinazuke Season 2) - tracking in queue
 - The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3 (Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season) - tracking in queue
+- My Teen Romantic Comedy SNAFU (Yahari Ore no Seishun Love Comedy wa Machigatteiru.) - 13 eps - 2013 - 3 seasons (13 + 13 + 12) - start with S1; not counted until watched
 
 ## Peak Tier (above the ranking, 10/10, absolute cinema)
 - Bunny Girl Senpai S1 - 13 eps

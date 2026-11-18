@@ -218,7 +218,7 @@
       "id": "queue",
       "title": "Queue",
       "subtitle": "what's next",
-      "tag": "8 entries",
+      "tag": "9 entries",
       "accent": "#7fa8d9",
       "items": [
         {
@@ -290,6 +290,15 @@
           "badge": "QUEUE",
           "meta": "Season 3 · tracking",
           "note": "Season 3 tracking in queue."
+        },
+        {
+          "id": "q-snafu",
+          "media": "snafu",
+          "title": "My Teen Romantic Comedy SNAFU",
+          "alt": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+          "badge": "QUEUE",
+          "meta": "13 eps · 2013 · 3 seasons",
+          "note": "S1 13 + S2 13 + S3 12. Start with season 1; not counted until watched."
         }
       ]
     },

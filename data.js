@@ -658,7 +658,7 @@ window.ANIME_DATA = {
       "id": "queue",
       "title": "Queue",
       "subtitle": "what's next",
-      "tag": "8 entries",
+      "tag": "9 entries",
       "accent": "#7fa8d9",
       "items": [
         {
@@ -931,6 +931,41 @@ window.ANIME_DATA = {
             "english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
             "native": "君のことが大大大大大好きな100人の彼女 第3期",
             "siteUrl": "https://anilist.co/anime/200637"
+          }
+        },
+        {
+          "id": "q-snafu",
+          "media": "snafu",
+          "title": "My Teen Romantic Comedy SNAFU",
+          "alt": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+          "badge": "QUEUE",
+          "meta": "13 eps · 2013 · 3 seasons",
+          "note": "S1 13 + S2 13 + S3 12. Start with season 1; not counted until watched.",
+          "sectionId": "queue",
+          "sectionTitle": "Queue",
+          "accent": "#7fa8d9",
+          "synopsis": "This romantic comedy revolves around an antisocial high school student named Hikigaya Hachiman with a distorted view on life and no friends or girlfriend. When he sees his classmates talking excitedly about living their adolescent lives, he mutters: \"They're a bunch of liars.\" When he is asked about his future dreams, he responds: \"Not working.\" A teacher gets Hachiman to join the 'Volunteer Service' club, which happens to have the school's prettiest girl: Yukinoshita Yukino.",
+          "image": "assets/img/posters/snafu.webp",
+          "banner": "assets/img/banners/snafu.webp",
+          "emptyMark": "MT",
+          "emptyLabel": "My Teen Romantic Comedy SNAFU",
+          "info": {
+            "format": "TV",
+            "year": 2013,
+            "episodes": 13,
+            "duration": 24,
+            "status": "FINISHED",
+            "averageScore": 78,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance",
+              "Slice of Life"
+            ],
+            "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+            "english": "My Teen Romantic Comedy SNAFU",
+            "native": "やはり俺の青春ラブコメはまちがっている。",
+            "siteUrl": "https://anilist.co/anime/14813"
           }
         }
       ]
@@ -5968,5 +6003,5 @@ window.ANIME_DATA = {
     ],
     "note": "Observed tendencies, not rules — override anytime."
   },
-  "builtAt": "2026-11-18T15:46:53.430Z"
+  "builtAt": "2026-11-18T16:04:21.195Z"
 };
