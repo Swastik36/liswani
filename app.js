@@ -4,7 +4,18 @@
   const data = window.ANIME_DATA;
   if (!data) return;
 
+  const sections = data.sections;
+
   const $ = (selector) => document.querySelector(selector);
+
+  function isLive(item) {
+    return !item.expiresAt || Date.parse(item.expiresAt) > Date.now();
+  }
+
+  function countText(section, count) {
+    const unit = section.countUnit || ["entry", "entries"];
+    return `${count} ${count === 1 ? unit[0] : unit[1]}`;
+  }
 
   function esc(value) {
     return String(value == null ? "" : value)
@@ -34,7 +45,9 @@
 
   const allCards = new Map();
   data.sections.forEach((section) => {
-    section.items.forEach((item) => allCards.set(item.id, item));
+    section.items.forEach((item) => {
+      if (isLive(item)) allCards.set(item.id, item);
+    });
   });
 
   function posterMarkup(item, eager) {
@@ -63,7 +76,7 @@
   }
 
   function cardMarkup(item, eager) {
-    return `<button class="card" type="button" data-card="${esc(item.id)}" aria-label="Open details for ${esc(item.title)}">
+    return `<button class="card" type="button" data-card="${esc(item.id)}"${item.expiresAt ? ` data-expires="${esc(item.expiresAt)}"` : ""} aria-label="Open details for ${esc(item.title)}">
       ${posterMarkup(item, eager)}
       <span class="card-title">${esc(item.shortTitle || item.title)}</span>
       <span class="card-meta">${esc(item.meta)}</span>
@@ -109,7 +122,8 @@
         if (section.feature) classes.push("section--feature");
         if (section.muted) classes.push("section--muted");
 
-        const cards = section.items
+        const items = section.items.filter(isLive);
+        const cards = items
           .map((item, index) => cardMarkup(item, sectionIndex === 0 && index < 8))
           .join("");
 
@@ -120,7 +134,7 @@
               <h2>${esc(section.title)}</h2>
               ${section.subtitle ? `<p>${esc(section.subtitle)}</p>` : ""}
             </div>
-            <div class="section-count">${esc(section.tag)}</div>
+            <div class="section-count">${esc(items.length === section.items.length ? section.tag : countText(section, items.length))}</div>
           </header>
           <div class="grid">${cards}</div>
           ${section.footer ? `<p class="section-footnote">${esc(section.footer)}</p>` : ""}
@@ -171,6 +185,7 @@
   const posterHost = $("#modal-poster");
   let lastFocused = null;
   let closeTimer = null;
+  let currentCardId = null;
 
   function formatLabel(format) {
     if (!format) return "";
@@ -189,6 +204,7 @@
   function openModal(id) {
     const item = allCards.get(id);
     if (!item) return;
+    currentCardId = id;
 
     if (closeTimer) {
       window.clearTimeout(closeTimer);
@@ -289,6 +305,7 @@
 
   function closeModal() {
     if (modal.hidden) return;
+    currentCardId = null;
     modal.hidden = true;
     document.body.classList.remove("no-scroll");
     if (banner.src) banner.removeAttribute("src");
@@ -381,10 +398,50 @@
     update();
   }
 
+  function setupCountdowns() {
+    const nodes = [...document.querySelectorAll("[data-expires]")];
+    if (!nodes.length) return;
+
+    function updateSectionCount(section) {
+      if (!section) return;
+      const countEl = section.querySelector(".section-count");
+      const grid = section.querySelector(".grid");
+      if (!countEl || !grid) return;
+      const source = sections.find((entry) => entry.id === section.id);
+      countEl.textContent = countText(source || {}, grid.querySelectorAll(".card").length);
+    }
+
+    function removeExpired(node) {
+      const card = node.closest(".card");
+      if (!card) {
+        node.remove();
+        return;
+      }
+      const id = card.dataset.card;
+      const section = card.closest("section");
+      card.remove();
+      node.remove();
+      if (currentCardId === id) closeModal();
+      updateSectionCount(section);
+    }
+
+    function tick() {
+      nodes.forEach((node) => {
+        if (!node.isConnected) return;
+        const remaining = Date.parse(node.dataset.expires) - Date.now();
+        if (remaining <= 0) removeExpired(node);
+      });
+    }
+
+    tick();
+    window.setInterval(tick, 1000);
+  }
+
   renderShell();
   renderSections();
   renderTotals();
   renderTaste();
   setupModal();
   setupNavHighlight();
+  setupCountdowns();
 })();

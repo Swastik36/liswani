@@ -63,15 +63,17 @@ the upload. `data.js` is regenerated locally and deployed as a static file.
 3. Reload the page.
 
 Artwork is fetched from [AniList](https://anilist.co) and stored locally so the
-page works offline. The live-action One Piece and Parasyte records are added by
-hand because AniList has no entries for them; `fetch-media.mjs` keeps those
-unpinned records when it refreshes the AniList-backed ones.
+page works offline. The live-action One Piece, Parasyte, and temporary Not Your
+Life records are added by hand because AniList has no entries for them;
+`fetch-media.mjs` keeps those unpinned records when it refreshes the
+AniList-backed ones.
 
 ## Coverage
 
 - 12 list sections (Currently Watching through Live Action)
-- 165 cards, including duplicate mentions that the original list keeps in
+- 166 cards, including duplicate mentions that the original list keeps in
   multiple tiers (e.g. the Rascal films and Blue Box S1)
-- 162 cached poster records, all with local artwork
+- 163 cached poster records, all with local artwork
+- Cards with an `expiresAt` timestamp disappear automatically once it passes
 - Totals and taste notes are rendered as their own sections
 - No frameworks, trackers, or external runtime dependencies

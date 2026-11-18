@@ -5790,9 +5790,43 @@ window.ANIME_DATA = {
       "id": "live-action",
       "title": "Live Action",
       "subtitle": "watched, not counted in anime totals",
-      "tag": "1 entry",
+      "tag": "2 entries",
+      "countUnit": [
+        "entry",
+        "entries"
+      ],
       "accent": "#c9a0c4",
       "items": [
+        {
+          "id": "la-not-your-life",
+          "media": "not-your-life",
+          "title": "Not Your Life",
+          "meta": "outside real life",
+          "note": "Don't search it up.",
+          "description": "Outside real life — no time, no episodes. Don't search it up.",
+          "expiresAt": "2026-11-19T18:04:20Z",
+          "sectionId": "live-action",
+          "sectionTitle": "Live Action",
+          "accent": "#c9a0c4",
+          "synopsis": "Outside real life — no time, no episodes. Don't search it up.",
+          "image": "assets/img/posters/not-your-life.png",
+          "banner": "assets/img/banners/not-your-life.webp",
+          "emptyMark": "NY",
+          "emptyLabel": "Not Your Life",
+          "info": {
+            "format": null,
+            "year": null,
+            "episodes": null,
+            "duration": null,
+            "status": null,
+            "averageScore": null,
+            "genres": [],
+            "romaji": "Not Your Life",
+            "english": "Not Your Life",
+            "native": null,
+            "siteUrl": null
+          }
+        },
         {
           "id": "la-parasyte-grey",
           "media": "parasyte-la-grey",
@@ -5934,5 +5968,5 @@ window.ANIME_DATA = {
     ],
     "note": "Observed tendencies, not rules — override anytime."
   },
-  "builtAt": "2026-11-17T13:39:12.003Z"
+  "builtAt": "2026-11-18T12:07:50.618Z"
 };

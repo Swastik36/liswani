@@ -2747,6 +2747,26 @@
     "poster": "assets/img/posters/parasyte-la-grey.webp",
     "banner": "assets/img/posters/parasyte-la-grey.webp"
   },
+  "not-your-life": {
+    "id": null,
+    "key": "not-your-life",
+    "title": {
+      "romaji": "Not Your Life",
+      "english": "Not Your Life"
+    },
+    "description": "Outside real life — no time, no episodes. Don't search it up.",
+    "genres": [],
+    "format": null,
+    "year": null,
+    "episodes": null,
+    "duration": null,
+    "status": null,
+    "averageScore": null,
+    "siteUrl": null,
+    "color": "#c9a0c4",
+    "poster": "assets/img/posters/not-your-life.png",
+    "banner": "assets/img/banners/not-your-life.webp"
+  },
   "relife-ova": {
     "id": 98635,
     "key": "relife-ova",
