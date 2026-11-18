@@ -5798,36 +5798,6 @@ window.ANIME_DATA = {
       "accent": "#c9a0c4",
       "items": [
         {
-          "id": "la-not-your-life",
-          "media": "not-your-life",
-          "title": "Not Your Life",
-          "meta": "outside real life",
-          "note": "Don't search it up.",
-          "description": "Outside real life — no time, no episodes. Don't search it up.",
-          "expiresAt": "2026-11-19T18:04:20Z",
-          "sectionId": "live-action",
-          "sectionTitle": "Live Action",
-          "accent": "#c9a0c4",
-          "synopsis": "Outside real life — no time, no episodes. Don't search it up.",
-          "image": "assets/img/posters/not-your-life.png",
-          "banner": "assets/img/banners/not-your-life.png",
-          "emptyMark": "NY",
-          "emptyLabel": "Not Your Life",
-          "info": {
-            "format": null,
-            "year": null,
-            "episodes": null,
-            "duration": null,
-            "status": null,
-            "averageScore": null,
-            "genres": [],
-            "romaji": "Not Your Life",
-            "english": "Not Your Life",
-            "native": null,
-            "siteUrl": null
-          }
-        },
-        {
           "id": "la-parasyte-grey",
           "media": "parasyte-la-grey",
           "title": "Parasyte: The Grey",
@@ -5856,6 +5826,36 @@ window.ANIME_DATA = {
             ],
             "romaji": "Gisaengsu: Deo Geurei",
             "english": "Parasyte: The Grey",
+            "native": null,
+            "siteUrl": null
+          }
+        },
+        {
+          "id": "la-not-your-life",
+          "media": "not-your-life",
+          "title": "Not Your Life",
+          "meta": "outside real life",
+          "note": "Don't search it up.",
+          "description": "Outside real life — no time, no episodes. Don't search it up.",
+          "expiresAt": "2026-11-19T18:04:20Z",
+          "sectionId": "live-action",
+          "sectionTitle": "Live Action",
+          "accent": "#c9a0c4",
+          "synopsis": "Outside real life — no time, no episodes. Don't search it up.",
+          "image": "assets/img/posters/not-your-life.png",
+          "banner": "assets/img/banners/not-your-life.png",
+          "emptyMark": "NY",
+          "emptyLabel": "Not Your Life",
+          "info": {
+            "format": null,
+            "year": null,
+            "episodes": null,
+            "duration": null,
+            "status": null,
+            "averageScore": null,
+            "genres": [],
+            "romaji": "Not Your Life",
+            "english": "Not Your Life",
             "native": null,
             "siteUrl": null
           }
@@ -5968,5 +5968,5 @@ window.ANIME_DATA = {
     ],
     "note": "Observed tendencies, not rules — override anytime."
   },
-  "builtAt": "2026-11-18T12:27:03.720Z"
+  "builtAt": "2026-11-18T13:06:24.352Z"
 };

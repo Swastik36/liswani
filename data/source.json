@@ -1567,15 +1567,6 @@
       "accent": "#c9a0c4",
       "items": [
         {
-          "id": "la-not-your-life",
-          "media": "not-your-life",
-          "title": "Not Your Life",
-          "meta": "outside real life",
-          "note": "Don't search it up.",
-          "description": "Outside real life — no time, no episodes. Don't search it up.",
-          "expiresAt": "2026-11-19T18:04:20Z"
-        },
-        {
           "id": "la-parasyte-grey",
           "media": "parasyte-la-grey",
           "title": "Parasyte: The Grey",
@@ -1583,6 +1574,15 @@
           "meta": "Netflix Korea · 6 eps · ~5h",
           "note": "Spin-off, same universe.",
           "description": "Korean Netflix spin-off set in the same universe as Parasyte."
+        },
+        {
+          "id": "la-not-your-life",
+          "media": "not-your-life",
+          "title": "Not Your Life",
+          "meta": "outside real life",
+          "note": "Don't search it up.",
+          "description": "Outside real life — no time, no episodes. Don't search it up.",
+          "expiresAt": "2026-11-19T18:04:20Z"
         }
       ],
       "footer": "Live-action total: ~5h Parasyte: The Grey; ~18h including One Piece live action (S1 ~8h + S2 eps 1–5 ~5h)."
