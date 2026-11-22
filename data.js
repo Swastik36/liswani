@@ -5872,7 +5872,7 @@ window.ANIME_DATA = {
           "meta": "outside real life",
           "note": "Don't search it up.",
           "description": "Outside real life — no time, no episodes. Don't search it up.",
-          "expiresAt": "2026-11-19T18:04:20Z",
+          "expiresAt": "2026-11-23T05:05:49Z",
           "sectionId": "live-action",
           "sectionTitle": "Live Action",
           "accent": "#c9a0c4",
@@ -6003,5 +6003,5 @@ window.ANIME_DATA = {
     ],
     "note": "Observed tendencies, not rules — override anytime."
   },
-  "builtAt": "2026-11-18T16:04:21.195Z"
+  "builtAt": "2026-11-22T05:05:55.562Z"
 };
